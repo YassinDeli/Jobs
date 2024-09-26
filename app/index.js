@@ -27,7 +27,7 @@ const Home = () => {
                     ),
                     // // headerRight defines a component to render on the right side of the header.
                     headerRight: () => (
-                        <ScreenHeaderBtn iconUrl={icons.profile} dimension="100%"/>
+                        <ScreenHeaderBtn iconUrl={images.profile} dimension="100%"/>
                     ),
                     // Setting the header title to an empty string to effectively remove it.
                     headerTitle: ""
